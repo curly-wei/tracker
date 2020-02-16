@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2.1 (64-bit)
+# SW Build 2729669 on Thu Dec  5 04:48:12 MST 2019
+# IP Build 2729494 on Thu Dec  5 07:38:25 MST 2019
+# Start of session at: Thu Feb 13 10:09:48 2020
+# Process ID: 6730
+# Current directory: /home/dewei/WorkSpace/FPGA/test_2D_tracker/test_2D_tracker.runs/synth_1
+# Command line: vivado -log Full_2D.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Full_2D.tcl
+# Log file: /home/dewei/WorkSpace/FPGA/test_2D_tracker/test_2D_tracker.runs/synth_1/Full_2D.vds
+# Journal file: /home/dewei/WorkSpace/FPGA/test_2D_tracker/test_2D_tracker.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source Full_2D.tcl -notrace
